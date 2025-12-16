@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sureah Jangid
+# 💫 Hi 👋, I'm Suresh Jangid
 **A passionate Frontend Engineer || DevOps Engineer **
 
 Email Me 👉 ✉️ **sj8332572@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -21,12 +21,8 @@ Email Me 👉 ✉️ **sj8332572@gmail.com** For Collaboration/Project or Anythi
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sureshjangid89&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sureshjangid89&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshjangid89&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sureshjangid89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
