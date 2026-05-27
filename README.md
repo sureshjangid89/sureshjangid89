@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Suresh Jangid
-**A passionate Frontend Engineer**
+**A passionate Backend Development!**
 
 Email Me 👉 ✉️ **sj8332572@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Frontend
-- 🌱 **I’m currently learning:** Backend Reat APIs.
+- 🔭 **I’m currently working on:** Backend
+- 🌱 **I’m currently learning:** scaleble backend architecture.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
