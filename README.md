@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Suresh Jangid
 **A passionate Backend Development!**
 
-Email Me 👉 ✉️ **sj8332572@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sureshjangid01007@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Backend
 - 🌱 **I’m currently learning:** scaleble backend architecture.
